@@ -1,12 +1,12 @@
 # GITHUB INDICATORS
 
-![GitHub Repo stars](https://img.shields.io/github/stars/cavidsuleyman/Netflix?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/Netflix?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/Netflix?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/HuseynGuluzade/Netflix?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/HuseynGuluzade/Netflix?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/HuseynGuluzade/Netflix?style=for-the-badge)
 
   # Netflix
 
-Hello, welcome to this lesson. Today I create with html and css file for Ballon-GAME. I use here html and css tags. 
+Hello, welcome to this lesson. Today I create with html and sass file for Netflix. I use here html and sass tags. 
 ## ## RULES OF USE
 
 > *STEP-1:* `https://github.com/HuseynGuluzade/Netflix.git` <br/>
@@ -23,7 +23,7 @@ This project was developed using the following technologies
 | No | Technique | Purpose |
 | - | ---------- | --------------------- |
 | 1 | HTML | Building a project skeleton |
-| 2 | CSS |  Make-up of the established skeleton |
+| 2 | SASS |  Make-up of the established skeleton |
 | 3 | GIT |  Project version control management |
 | 4 | VSCode | Text editor used in the project |
 

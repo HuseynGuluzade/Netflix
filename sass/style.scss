@@ -1,0 +1,72 @@
+@import 'size';
+@import 'color';
+@import 'extend';
+
+
+body{
+    width: $w1;
+    height: $h1;
+    background-color: $bc1;
+    margin: $m1;
+    padding: $p1;
+    overflow-x: hidden;
+
+    .header{
+        @extend .header;
+    }
+
+    .aside1{
+        @extend .aside1;
+    }
+    
+    .aside2{
+        @extend .aside2 ;
+    }
+
+    .aside3{
+        @extend .aside3;
+    }
+
+    .aside4{
+        @extend .aside4;
+    }
+
+    .aside5{
+        @extend .aside5;
+    }
+
+    .about{
+        @extend .about;
+    }
+    .about1{
+        @extend .about1;
+    }
+    .about2{
+        @extend .about2;
+    }
+    .about3{
+        @extend .about3;
+    }
+    .about4{
+        @extend .about4;
+    }
+    .about5{
+        @extend .about5;
+    }
+    .about6{
+        @extend .about6;
+    }
+
+    .footer{
+        @extend .footer;
+    }
+
+    .aze{
+        @extend .aze;
+    }
+    
+
+    
+
+}
+
